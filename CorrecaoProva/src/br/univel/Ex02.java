@@ -1,6 +1,6 @@
 package br.univel;
 
-public class Ex02 {
+public class Ex02  {
 	
 	public static void main(String[] args) {
 		execute(169460);
